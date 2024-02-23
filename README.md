@@ -9,3 +9,5 @@ Example:
 ```js
 x*Math.sin(x)
 ```
+
+![MathSinXTimesX](docs/Screenshot_20240223-152004.jpg)
