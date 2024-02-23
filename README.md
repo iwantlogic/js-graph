@@ -10,4 +10,4 @@ Example:
 x*Math.sin(x)
 ```
 
-![MathSinXTimesX](docs/Screenshot_20240223-152004.jpg)
+![MathSinXTimesX](pics/Screenshot_20240223-152004.jpg)
