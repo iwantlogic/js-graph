@@ -12,6 +12,12 @@ input=process.argv[1]
 a = eval(input) // a=// (ERROR!) 
 console.log(a)
 ```
+
+i am currently working on fixing this. 
+
+You can contribute to me so we can fix this vulnerability together!
+
+
 # Description
 
 
